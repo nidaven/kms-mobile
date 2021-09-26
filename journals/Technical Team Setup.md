@@ -1,8 +1,8 @@
 tags:: #cci/multimedia/technical/setup
 
-- #### Removing Items from Storage
-  id:: 61463330-2f63-469a-b032-0716a6e1ea01
-  collapsed:: true
+#### Removing Items from Storage
+id:: 61463330-2f63-469a-b032-0716a6e1ea01
+collapsed:: true
 	- Remove items from top level shelves first. These include drums, guitar, mic stands etc.
 	- Each item should be taken immediately to the stage
 	- **Extreme Care** should be taken lifting the metallic stage boxes containing the S16s.
@@ -24,8 +24,9 @@ tags:: #cci/multimedia/technical/setup
 		- Remove the monitor and second FOH on the top of the mini subs in the middle of the storage locker
 		- Remove the mini subs using the left side storage door
 	-
-- #### Wiring
-  description::
+#### Equipment Placement
+#### Wiring
+description::
 	- Power
 		- Stage B (Left)
 		  collapsed:: true
@@ -102,6 +103,29 @@ tags:: #cci/multimedia/technical/setup
 			- Outputs
 #### Wiring Removal
 #### Storage Items
+	- Extreme Left Space
+		- Drum disk at bottom
+		- 4 x Drum stands
+		- Keyboard stand
+		- Pulpit
+	- Level 3
+		- In sequential order
+		- 2 x Stage boxes via the left side
+		- 2 x Choir mic stands via the left side
+		- Random boxes
+		- Small drums
+	- Level 4
+		- Stage TV through right side to middle
+		- Mic Stand through left side to front of stage TV
+		- Guitar on the mic stand and TV
+		- Small drums
+	- Level 2
+		- 13 Amp extensions to right side
+		- P16 Box
+		- Workstation extension
+	- Level 0
+		- Big Drum via right side
+		- XLR cable via right side
 -
   #+BEGIN_TIP
   Consider adding queries that query block properties within this page e.g. extensions with colour green. This may provide a way to inventory tools and equipment.
