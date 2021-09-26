@@ -28,6 +28,7 @@ tags:: #cci/multimedia/technical/setup
   description::
 	- Power
 		- Stage B (Left)
+		  collapsed:: true
 			- Extension
 			  colour:: green
 			  location:: Back of curtain behind
@@ -43,6 +44,7 @@ tags:: #cci/multimedia/technical/setup
 						- Front Fill
 						  id:: 61463330-92fe-40b1-a519-ac5a9ae8e82c
 						- Monitor
+						- Small Fixture Light
 					- White Extension (+red/green indicator)
 						- White > Side Tripod lights
 						- Small Fixture Light
@@ -78,7 +80,6 @@ tags:: #cci/multimedia/technical/setup
 				- Extension
 				  colour:: white
 				  connections:: four
-				  collapsed:: true
 					- Top Speaker
 					- Middle Speaker
 					- Bottom Speaker
@@ -89,7 +90,6 @@ tags:: #cci/multimedia/technical/setup
 						- Front Fill
 						- Monitor
 				- White
-				  collapsed:: true
 					- 2 x Transmitter
 					- TV
 					- Small Fixture Light
