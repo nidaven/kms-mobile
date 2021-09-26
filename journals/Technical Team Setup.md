@@ -24,7 +24,7 @@ collapsed:: true
 		- Remove the monitor and second FOH on the top of the mini subs in the middle of the storage locker
 		- Remove the mini subs using the left side storage door
 	-
-#### Equipment Placement
+#### Equipment Setup Placement
 #### Wiring
 description::
 	- Power
