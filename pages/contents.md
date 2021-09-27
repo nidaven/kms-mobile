@@ -1,3 +1,3 @@
 - [[Technical Team Setup]]
-- [[me/purchases]]
-- [[me]]
+- [[my/purchases]]
+- [[my]]
