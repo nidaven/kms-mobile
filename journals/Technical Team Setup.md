@@ -95,6 +95,7 @@ collapsed:: true
 					- TV
 					- Small Fixture Light
 	- Signal
+	  collapsed:: true
 		- Left Stage Box A
 			- Inputs
 			- Outputs
