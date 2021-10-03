@@ -67,7 +67,6 @@ collapsed:: true
 							- Mid-stage center monitor
 							- Mid-stage right monitor
 		- Stage A (Right)
-		  collapsed:: true
 			- Extension
 			  colour:: white
 			  location:: Stage Box A area
