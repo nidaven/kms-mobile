@@ -25,8 +25,8 @@ collapsed:: true
 		- Remove the mini subs using the left side storage door
 	-
 #### Equipment Setup Placement
-#### Wiring
-description::
+- #### Wiring
+  description::
 	- Power
 		- Stage B (Left)
 		  collapsed:: true
