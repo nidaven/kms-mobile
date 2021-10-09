@@ -83,7 +83,7 @@ collapsed:: true
 				  connections:: four
 					- Top Speaker
 					- Middle Speaker
-					- Bottom Speaker
+					- Bottom Speaker44 44
 					- White
 						- Stage TV
 						- Small Fixture Light
