@@ -81,6 +81,7 @@ collapsed:: true
 				- Extension
 				  colour:: white
 				  connections:: four
+				  collapsed:: true
 					- Top Speaker
 					- Middle SpeakerR5
 					- Bottom Speaker44 44
