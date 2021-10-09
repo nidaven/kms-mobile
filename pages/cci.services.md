@@ -1,3 +1,3 @@
 title:: cci/services
 
-- {{query (property)}}
+- {{query (theme healing)}}
