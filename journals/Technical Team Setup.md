@@ -82,7 +82,7 @@ collapsed:: true
 				  colour:: white
 				  connections:: four
 					- Top Speaker
-					- Middle Speaker
+					- Middle SpeakerR5
 					- Bottom Speaker44 44
 					- White
 						- Stage TV
