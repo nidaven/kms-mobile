@@ -7,8 +7,7 @@ collapsed:: true
 	- Each item should be taken immediately to the stage
 	- **Extreme Care** should be taken lifting the metallic stage boxes containing the S16s.
 	- An efficient way to remove the speakers from the store involves the following sequence:
-		-
-		  #+BEGIN_TIP
+		- #+BEGIN_TIP
 		  It may be expedient to bring the trolley at this stage to carry the speakers
 		  #+END_TIP
 		- Remove the two 1200w FOH speakers in the left side storage locker (levels 1 and 2)
@@ -17,8 +16,7 @@ collapsed:: true
 		- Remove the drum and XLR cable box from the top of the speakers (level 0) in the right side storage
 		- Remove the second sub still at the right side storage locker
 		- Remove a 1500w FOH at the edge of the right side storage
-		-
-		  #+BEGIN_TIP
+		- #+BEGIN_TIP
 		  The following steps requires entering the locker
 		  #+END_TIP
 		- Remove the monitor and second FOH on the top of the mini subs in the middle of the storage locker
@@ -128,7 +126,6 @@ collapsed:: true
 	- Level 0
 		- Big Drum via right side
 		- XLR cable via right side
--
-  #+BEGIN_TIP
+- #+BEGIN_TIP
   Consider adding queries that query block properties within this page e.g. extensions with colour green. This may provide a way to inventory tools and equipment.
   #+END_TIP
