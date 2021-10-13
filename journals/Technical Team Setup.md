@@ -101,7 +101,7 @@ collapsed:: true
 		- Right Stage Box B
 			- Inputs
 			- Outputs
-#### DONE Wiring Removal
+####  Wiring Removal
 #### Storage Items
 	- Extreme Left Space
 		- Drum disk at bottom
