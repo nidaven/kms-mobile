@@ -102,7 +102,6 @@ collapsed:: true
 			- Inputs
 			- Outputs
 #### DONE Wiring Removal
-SCHEDULED: <2021-10-13 Wed .+1d>
 #### Storage Items
 	- Extreme Left Space
 		- Drum disk at bottom
