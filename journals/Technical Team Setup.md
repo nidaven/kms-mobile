@@ -101,7 +101,7 @@ collapsed:: true
 		- Right Stage Box B
 			- Inputs
 			- Outputs
-#### Wiring Removal
+#### DONE Wiring Removal
 SCHEDULED: <2021-10-13 Wed .+1d>
 #### Storage Items
 	- Extreme Left Space
