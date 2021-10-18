@@ -1,1 +1,1 @@
-tags:: #my/faithwalk
+tags:: my/faithwalk
